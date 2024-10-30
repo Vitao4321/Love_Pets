@@ -51,7 +51,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   <tr>
     <td align="center">
       <a href="#" title="defina o título do link">
-        <img src=" https://avatars.githubusercontent.com/u/99979031" width="100px;" alt="Foto do Victor Sims no GitHub"/><br>
+        <img src="https://avatars.githubusercontent.com/u/99979031" width="100px;" alt="Foto do Victor Sims no GitHub"/><br>
         <sub>
           <b>Victor Sims</b>
         </sub>
