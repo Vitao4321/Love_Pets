@@ -2,7 +2,8 @@
 # LOVE PETS
 
 
-<img src="imagem.png" alt="Exemplo imagem">
+![1](https://github.com/user-attachments/assets/e7e9c902-6e4b-49a7-8b72-f4be17216a44)
+
 
 > This project is for a mobile pet shop, the difficulty of making appointments on paper became more difficult, so I developed this website that allows you to make appointments
 
