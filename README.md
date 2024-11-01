@@ -47,7 +47,7 @@ python3 manage.py runserver
 
 Agradecemos às seguintes pessoas que contribuíram para este projeto:
 
-<table>
+<!--<table>
   <tr>
     <td align="center">
       <a href="#" title="defina o título do link">
@@ -59,7 +59,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
     </td>
   </tr>
 </table>
-
+-->
 ## 😄 Seja um dos contribuidores
 
 Quer fazer parte desse projeto? Clique [AQUI](CONTRIBUTING.md) e leia como contribuir.
